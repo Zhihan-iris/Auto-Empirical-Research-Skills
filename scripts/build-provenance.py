@@ -79,9 +79,19 @@ OVERRIDES: dict[str, dict[str, object]] = {
         "source_url": "https://github.com/hsantanna88/clo-author",
         "source_confidence": "high",
     },
+    "18-jusi-aalto-stata-accounting-research": {
+        "source_url": None,
+        "source_confidence": "unresolved",
+        "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
+    },
     "27-dariia-m-my_claude_skills": {
         "source_url": "https://github.com/dariia-m/my_claude_skills",
         "source_confidence": "high",
+    },
+    "29-quarcs-lab-project20XXy": {
+        "source_url": None,
+        "source_confidence": "unresolved",
+        "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
     },
     "31-thalysandratos-claude-code-skills": {
         "source_url": "https://github.com/thalysandratos/claude-code-skills",
@@ -91,9 +101,19 @@ OVERRIDES: dict[str, dict[str, object]] = {
         "source_url": "https://github.com/bahayonghang/academic-writing-skills",
         "source_confidence": "high",
     },
+    "38-peternka-academic-proofreader": {
+        "source_url": None,
+        "source_confidence": "unresolved",
+        "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
+    },
     "44-matsuikentaro1-humanizer_academic": {
         "source_url": "https://github.com/matsuikentaro1/humanizer_academic",
         "source_confidence": "high",
+    },
+    "49-voidborne-d-humanize-chinese": {
+        "source_url": None,
+        "source_confidence": "unresolved",
+        "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
     },
 }
 

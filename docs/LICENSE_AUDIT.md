@@ -9,7 +9,7 @@ Scan date: 2026-05-31.
 - Collections audited: 50
 - License buckets: CC-BY-SA-4.0 (repository default)=4, MIT=23, MIT Non-Commercial=1, UNKNOWN - check upstream=22
 - Commercial-use buckets: allowed=23, restricted=1, share-alike=4, unknown=22
-- Source-confidence buckets: high=25, low=9, medium=16
+- Source-confidence buckets: high=25, low=6, medium=15, unresolved=4
 
 ## Interpretation
 
@@ -43,7 +43,7 @@ Scan date: 2026-05-31.
 | [`15-Felpix-Studios-social-science-research`](../skills/15-Felpix-Studios-social-science-research/) | [source](https://github.com/Felpix-Studios/social-science-research) | high | MIT | allowed | manual vendor snapshot |
 | [`16-hsantanna88-clo-author`](../skills/16-hsantanna88-clo-author/) | [source](https://github.com/hsantanna88/clo-author) | high | MIT | allowed | manual vendor snapshot |
 | [`17-DAAF-Contribution-Community-daaf`](../skills/17-DAAF-Contribution-Community-daaf/) | [source](https://github.com/DAAF-Contribution-Community/daaf) | medium | UNKNOWN - check upstream | unknown | manual vendor snapshot |
-| [`18-jusi-aalto-stata-accounting-research`](../skills/18-jusi-aalto-stata-accounting-research/) | [source](https://github.com/jusi/aalto-stata-accounting-research) | low | UNKNOWN - check upstream | unknown | manual vendor snapshot |
+| [`18-jusi-aalto-stata-accounting-research`](../skills/18-jusi-aalto-stata-accounting-research/) | UNKNOWN | unresolved | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`20-wenddymacro-python-econ-skill`](../skills/20-wenddymacro-python-econ-skill/) | [source](https://github.com/wenddymacro/python-econ-skill) | low | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`22-christopherkenny-skills`](../skills/22-christopherkenny-skills/) | [source](https://github.com/christopherkenny/skills) | low | MIT | allowed | manual vendor snapshot |
 | [`23-Learning-Bayesian-Statistics-baygent-skills`](../skills/23-Learning-Bayesian-Statistics-baygent-skills/) | [source](https://github.com/Learning-Bayesian-Statistics/baygent-skills) | medium | UNKNOWN - check upstream | unknown | manual vendor snapshot |
@@ -52,14 +52,14 @@ Scan date: 2026-05-31.
 | [`26-Data-Wise-scholar`](../skills/26-Data-Wise-scholar/) | [source](https://github.com/Data-Wise/scholar) | medium | MIT | allowed | manual vendor snapshot |
 | [`27-dariia-m-my_claude_skills`](../skills/27-dariia-m-my_claude_skills/) | [source](https://github.com/dariia-m/my_claude_skills) | high | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`28-maxwell2732-paper-replicate-agent-demo`](../skills/28-maxwell2732-paper-replicate-agent-demo/) | [source](https://github.com/maxwell2732/paper-replicate-agent-demo) | low | MIT | allowed | manual vendor snapshot |
-| [`29-quarcs-lab-project20XXy`](../skills/29-quarcs-lab-project20XXy/) | [source](https://github.com/quarcs/lab-project20XXy) | low | UNKNOWN - check upstream | unknown | manual vendor snapshot |
+| [`29-quarcs-lab-project20XXy`](../skills/29-quarcs-lab-project20XXy/) | UNKNOWN | unresolved | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`31-thalysandratos-claude-code-skills`](../skills/31-thalysandratos-claude-code-skills/) | [source](https://github.com/thalysandratos/claude-code-skills) | high | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`32-dylantmoore-stata-skill`](../skills/32-dylantmoore-stata-skill/) | [source](https://github.com/dylantmoore/stata-skill) | medium | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`33-Galaxy-Dawn-claude-scholar`](../skills/33-Galaxy-Dawn-claude-scholar/) | [source](https://github.com/Galaxy-Dawn/claude-scholar) | medium | MIT | allowed | manual vendor snapshot |
 | [`34-andrehuang-research-companion`](../skills/34-andrehuang-research-companion/) | [source](https://github.com/andrehuang/research-companion) | medium | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`35-bahayonghang-academic-writing-skills`](../skills/35-bahayonghang-academic-writing-skills/) | [source](https://github.com/bahayonghang/academic-writing-skills) | high | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`36-taoyunudt-literature-review-skill`](../skills/36-taoyunudt-literature-review-skill/) | [source](https://github.com/taoyunudt/literature-review-skill) | low | MIT | allowed | manual vendor snapshot |
-| [`38-peternka-academic-proofreader`](../skills/38-peternka-academic-proofreader/) | [source](https://github.com/peternka/academic-proofreader) | low | UNKNOWN - check upstream | unknown | manual vendor snapshot |
+| [`38-peternka-academic-proofreader`](../skills/38-peternka-academic-proofreader/) | UNKNOWN | unresolved | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`39-vincentarelbundock-marginaleffects`](../skills/39-vincentarelbundock-marginaleffects/) | [source](https://github.com/vincentarelbundock/marginaleffects) | high | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`40-py-econometrics-pyfixest`](../skills/40-py-econometrics-pyfixest/) | [source](https://github.com/py-econometrics/pyfixest) | high | UNKNOWN - check upstream | unknown | manual vendor snapshot |
 | [`41-sticerd-eee-sewage-econometrics-check`](../skills/41-sticerd-eee-sewage-econometrics-check/) | [source](https://github.com/sticerd-eee/sewage) | high | UNKNOWN - check upstream | unknown | manual vendor snapshot |
@@ -70,5 +70,5 @@ Scan date: 2026-05-31.
 | [`46-hardikpandya-stop-slop`](../skills/46-hardikpandya-stop-slop/) | [source](https://github.com/hardikpandya/stop-slop) | low | MIT | allowed | manual vendor snapshot |
 | [`47-conorbronsdon-avoid-ai-writing`](../skills/47-conorbronsdon-avoid-ai-writing/) | [source](https://github.com/conorbronsdon/avoid-ai-writing) | medium | MIT | allowed | manual vendor snapshot |
 | [`48-copaper-ai-chinese-de-aigc`](../skills/48-copaper-ai-chinese-de-aigc/) | [source](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) | high | CC-BY-SA-4.0 (repository default) | share-alike | manual |
-| [`49-voidborne-d-humanize-chinese`](../skills/49-voidborne-d-humanize-chinese/) | [source](https://github.com/voidborne-d/humanize-chinese) | medium | MIT Non-Commercial | restricted | manual vendor snapshot |
+| [`49-voidborne-d-humanize-chinese`](../skills/49-voidborne-d-humanize-chinese/) | UNKNOWN | unresolved | MIT Non-Commercial | restricted | manual vendor snapshot |
 | [`50-brycewang-aer-skills`](../skills/50-brycewang-aer-skills/) | [source](https://github.com/brycewang-stanford/AER-skills) | high | MIT | allowed | weekly GitHub Actions sync |

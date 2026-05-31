@@ -321,12 +321,12 @@
       "last_aers_review": "2026-05-31",
       "license": "UNKNOWN - check upstream",
       "license_file": null,
-      "origin": "vendored upstream",
+      "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
       "path": "skills/18-jusi-aalto-stata-accounting-research",
       "security_review": "SECURITY-SCAN-REPORT.md",
       "skill_count": 1,
-      "source_confidence": "low",
-      "source_url": "https://github.com/jusi/aalto-stata-accounting-research",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot",
       "vendored_commit": null
     },
@@ -456,12 +456,12 @@
       "last_aers_review": "2026-05-31",
       "license": "UNKNOWN - check upstream",
       "license_file": null,
-      "origin": "vendored upstream",
+      "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
       "path": "skills/29-quarcs-lab-project20XXy",
       "security_review": "SECURITY-SCAN-REPORT.md",
       "skill_count": 24,
-      "source_confidence": "low",
-      "source_url": "https://github.com/quarcs/lab-project20XXy",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot",
       "vendored_commit": null
     },
@@ -561,12 +561,12 @@
       "last_aers_review": "2026-05-31",
       "license": "UNKNOWN - check upstream",
       "license_file": null,
-      "origin": "vendored upstream",
+      "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
       "path": "skills/38-peternka-academic-proofreader",
       "security_review": "SECURITY-SCAN-REPORT.md",
       "skill_count": 1,
-      "source_confidence": "low",
-      "source_url": "https://github.com/peternka/academic-proofreader",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot",
       "vendored_commit": null
     },
@@ -726,12 +726,12 @@
       "last_aers_review": "2026-05-31",
       "license": "MIT Non-Commercial",
       "license_file": "skills/49-voidborne-d-humanize-chinese/LICENSE",
-      "origin": "vendored upstream",
+      "origin": "vendored snapshot; upstream URL unresolved as of 2026-05-31",
       "path": "skills/49-voidborne-d-humanize-chinese",
       "security_review": "SECURITY-SCAN-REPORT.md",
       "skill_count": 1,
-      "source_confidence": "medium",
-      "source_url": "https://github.com/voidborne-d/humanize-chinese",
+      "source_confidence": "unresolved",
+      "source_url": null,
       "sync": "manual vendor snapshot",
       "vendored_commit": null
     },
@@ -770,8 +770,9 @@
     },
     "source_confidence": {
       "high": 25,
-      "low": 9,
-      "medium": 16
+      "low": 6,
+      "medium": 15,
+      "unresolved": 4
     }
   }
 }
