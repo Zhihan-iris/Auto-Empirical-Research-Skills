@@ -2,12 +2,12 @@
   "generated_by": "scripts/build-catalog-enrich.py",
   "schema_version": 1,
   "summary": {
-    "skills": 1072,
+    "skills": 1073,
     "mean_quality_score": 99.2,
-    "with_frontmatter_description": 1068,
+    "with_frontmatter_description": 1069,
     "body_derived_description": 4,
     "no_description": 0,
-    "tagged": 514
+    "tagged": 515
   },
   "taxonomy": {
     "language": {
@@ -39,7 +39,7 @@
       "tables-figures": 40,
       "presentation": 37,
       "ideation": 32,
-      "peer-review": 24,
+      "peer-review": 25,
       "robustness": 23,
       "de-aigc": 16,
       "data": 12
@@ -20734,6 +20734,26 @@
       "license": "AGPL-3.0",
       "commercial_use": "share-alike",
       "source_url": "https://github.com/tmonk/mcp-stata",
+      "sync": "manual vendor snapshot"
+    },
+    {
+      "name": "game-theory-paper-writer",
+      "path": "skills/65-game-theory-paper-writer/SKILL.md",
+      "collection": "65-game-theory-paper-writer",
+      "line_count": 65,
+      "description_effective": "Generate, continue, revise, polish, and stress-test game theory research papers. Use when the user provides a game theory topic, phenomenon, draft, outline, model idea, literature anchor, reviewer comments, or asks for 博弈论论文生成, 选题建模, 文献迁移, 模型修正, 均衡分析, 数值模拟, 论文润色, 改稿打磨, or R&R response work.",
+      "description_source": "frontmatter",
+      "has_references": true,
+      "tags": {
+        "stage": [
+          "peer-review"
+        ]
+      },
+      "quality_score": 100,
+      "quality_flags": [],
+      "license": "UNKNOWN - check upstream",
+      "commercial_use": "unknown",
+      "source_url": "https://github.com/game/theory-paper-writer",
       "sync": "manual vendor snapshot"
     }
   ]
